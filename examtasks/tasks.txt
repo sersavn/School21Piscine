@@ -1,0 +1,10 @@
+keyboard input reverse letters
+keyboard input replace letter a by letter b
+strlen
+strcopy
+swap a and b
+atoi
+
+1st symbol Z if it is encountered followed by newline
+if there is no Z program writes 'z' followed by newline
+if the number of entered strings not 1 displays 'z' followed by newline
